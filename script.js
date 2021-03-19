@@ -1,11 +1,4 @@
-var mes=window.prompt("put your name, please");
-if(mes=="Shiyar"||mes=="Shiyar Team"){
-    alert("Hello my cheachers");
-}
-else{
-    alert("Error name");
-    window.close();
-}
+
 class Slider{
     constructor(){
 this.images=[];
